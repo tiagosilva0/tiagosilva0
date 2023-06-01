@@ -13,4 +13,3 @@ tiago.emiliano.moreira@escola.pr.gov.br
 me307.silva@gmail.com
 
 
-https://media.tenor.com/i7llTDaTPtUAAAAC/naruto.gif
