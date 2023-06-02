@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil: 
 
-meu nome é tiago silva
+meu nome é tiago silva emiliano moreira
 
 - estou estudando no [alura][https://www.alura.com.br]
 - estou me desenvolvendo na linguagem 
